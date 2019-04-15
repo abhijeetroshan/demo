@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Trainee
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rsangadi
+Implementation-Vendor-Id: com.cg.Trainee
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Trainee
+Created-By: Maven Integration for Eclipse
+
